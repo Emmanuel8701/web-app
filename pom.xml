@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http:http://18.191.166.62:8000/repository/ibm-snapshot/</url>
+	      <url>http://18.191.166.62:8000/repository/ibm-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
